@@ -1,2 +1,0 @@
-# staticArrayCart.java
-staticArrayCart.java
